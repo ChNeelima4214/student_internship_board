@@ -1,0 +1,13 @@
+{
+  "name": "internship-board",
+  "version": "1.0.0",
+  "description": "Responsive Internship Board",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.3"
+  }
+}
